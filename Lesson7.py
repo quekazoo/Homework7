@@ -1,4 +1,3 @@
-
 def say_hi():
     name = input("Your name: ")
     age = int(input("Your age: "))
